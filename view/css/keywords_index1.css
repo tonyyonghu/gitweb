@@ -1,0 +1,381 @@
+@charset "utf-8";
+*html body{overflow:visible}
+*html iframe,*html frame{overflow:auto}
+*html frameset{overflow:hidden}
+*::-moz-selection{color:#FFF;background:#39ae39;}::selection{background:#6b0;color:#FFF;}
+body{font: 14px/1.5 "Microsoft Yahei",sans-serif;font-weight:400;color:#333;background-color: #FDFEF8;}
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,fieldset,table,td,img,div,tr{margin:0;padding:0}
+h1{font-size:24px}h2{font-size:14px;font-weight:normal;}h3{font-size:18px}h4{font-size:16px}h5{font-size:14px}h6{font-size:12px}
+input,select{vertical-align:middle}ol,ul,li{list-style:none}
+textarea,input{word-wrap:break-word;word-break:break-all;padding:0}img{border:0 none}
+li{list-style-type:none}b{font-weight:300}strong{font-weight:700;}
+a:link,a:visited{text-decoration:none}
+a{color:#555;text-decoration:none;}
+a:hover{color:#ff7e00;transition: color 0.4s;-moz-transition: color 0.4s;-webkit-transition: color 0.4s;-o-transition: color 0.4s; }
+.fl{float:left;display:inline;overflow:hidden}
+.fr{float:right;display:inline;overflow:hidden}
+.cl{clear:both}
+[class^="ico-"],[class*="ico-"]{background-image: url("../images/meiwen.com.cn_ico.png");background-repeat: no-repeat;}
+.iconew{background: url("../images/new.gif") no-repeat scroll right 3px transparent;}
+.ico-00{padding: 0 0 0 30px;background-position: -4px 4px;}
+.ico-01{padding: 0 0 0 20px;background-position: 4px -734px}
+.ico-02{padding: 0 0 0 22px;background-position: 2px -740px;}
+.ico-03{padding: 0 0 0 26px;background-position: 0px -904px}
+.ico-04{padding: 0 0 0 20px;background-position: -4px -782px;}
+.ico-05{padding: 0 0 0 20px;background-position: -4px -814px;}
+.ico-06{padding: 0 0 0 15px;background-position: -7px -848px;}
+.ico-07{padding: 0 0 0 26px;background-position: -4px -594px;}
+.ico-08{padding: 0 0 0 26px;background-position: 4px -177px;}
+.ico-09{padding: 0 0 0 26px;background-position: 0px -878px;}
+.ico-10{padding: 0 0 0 20px;background-position: -1px -938px;}
+.ico-11{padding: 0 0 0 25px;background-position: -3px -978px;}
+.ico-12{padding: 0 0 0 22px;background-position: -3px -506px;}
+.ico-13{padding: 0 0 0 25px;background-position: -2px -551px;}
+.ico-14{padding: 0 0 0 20px;background-position: -5px -1083px;}
+.ico-15{padding: 0 0 0 20px;background-position: -6px -1014px;}
+.ico-16{padding: 0 0 0 23px;background-position: -5px -230px;}
+.ico-17{padding: 0 0 0 23px;background-position: -5px -113px;}
+.ico-18{padding: 0 0 0 22px;background-position: -5px -346px;}
+.ico-19{padding: 0 0 0 20px;background-position: -7px -42px;}
+.ico-20{padding: 0 0 0 20px;background-position: -5px -314px}
+.ico-21{padding: 0 0 0 20px;background-position: -7px -81px;}
+.ico-22{padding: 0 0 0 20px;background-position: -7px -119px;}
+.ico-23{padding: 0 0 0 20px;background-position: -7px -277px;}
+.ico-24{padding: 0 0 0 22px;background-position: -3px -1049px;}
+.ico-25{padding: 0 0 0 22px;background-position: -3px -1050px;}
+.s-weibo{background-position: 2px 4px;background-color: #FCD1A7;}
+.t-weibo{background-position: 4px -37px;background-color: #A9E9B7;}
+.i-qzone{background-position: 3px -78px;background-color: #F0E67A;}
+.i-marks{background-position: 6px -115px;background-color: #7CE0E0;}
+.i-write{background-position: 6px -150px;background-color: #CDDDC2;}
+.s-weibo:hover{background-color: #F9595E;}
+.t-weibo:hover{background-color: #00BFE9;}
+.i-qzone:hover{background-color: #FFAB00;}
+.i-marks:hover{background-color: #CC7CE0;}
+.i-write:hover{background-color: #74b000;}
+#header{width:100%;margin: 0px auto;background: url("../images/meiwen_header_bg.jpg") repeat scroll 0px 0px transparent;}
+#toolbar{width:100%;height:30px;top:0;z-index:1000;left:0}
+.tool{width:1020px;height:30px;margin:0 auto}
+.tool .left{width:70%;}
+.tool .left a{float:left;height:30px;color:#56b43f;line-height:30px;padding: 0px 20px 0px 0px;}
+.tool .right{text-align: right;width:30%;height:30px;line-height:30px;position:relative}
+.tool .right,.tool .right a{color:#56b43f}
+.tool .left a:hover,.tool .right a:hover,.left-item li p a:hover,.left-item li h3 a:hover,.new-item li h4 a:hover{color:#ff7e00}
+.head{width:1020px;height:70px;margin: 0px auto 0px;}
+.head .logo{width:300px;height:60px;overflow:hidden}
+.head .left{width:720px;height:60px;overflow:hidden}
+.head .right{width:250px;height:34px;margin: 13px 0px;}
+.head .right a{float:left;overflow:hidden;margin-right: 5px;width:32px;height:32px;line-height:32px}
+.head .right a,.tougao_btn,.listbom .fenxiang{background-image:url("../images/meiwen_head_ico.png");background-repeat:no-repeat;border-radius:3px;}
+.serach{width:320px;height:34px;overflow:hidden;margin:13px 0;line-height:34px;background-color: rgba(255, 255, 255, 0.78);}
+.search_k{height:30px;width:210px;line-height:30px;padding: 0px 3px 0px 30px;font-size:14px;color:#999;font-family:"Microsoft Yahei";border:2px #74B000 solid;background:#fff;background: url("../images/meiwen.com.cn_ico.png") no-repeat scroll -3px -699px transparent;}
+.search_s{height:34px;width:60px;cursor:pointer;line-height:30px;color:#fff;font-family:"Microsoft Yahei";text-align:center;border:0;font-size:15px;background:#74B000}
+.tougao_btn{width:100px;height:32px;border:0 none;color:#FFF;font-size:15px;font-family:"Microsoft Yahei";cursor:pointer;padding: 0 0 0 23px;}
+.nav{width:100%;height:45px;border-bottom:2px solid #f39e09;text-align:center;overflow:hidden;background-color:#719d00;}
+.nav ul{width:1020px;display:inline-block;}
+.nav ul li{width: 92px;float:left;display:inline;overflow:hidden}
+.nav ul li a{font-size: 16px;color:#FFF;height: 45px;line-height:45px;text-align: center;display:block;}
+.nav ul li:hover,.nav ul li a:hover{background-color:#668e00;color:#FFF;text-decoration:none}
+.nav ul li a.active{background:#f39e09; color:#fff; width:92px;}
+.subnav{padding:6px 0;text-align:center;overflow:hidden}
+.subnav ul{display:inline-block;width:1012px;border-right:1px dotted #86bf15;border-bottom:1px dotted #86bf15;overflow:hidden}
+.subnav .ad1012{display:inline-block;width:1012px;border:1px dotted #86bf15;overflow:hidden}
+.subnav li{width:91px;height:32px;line-height:32px;text-align:center;border-top:1px dotted #86bf15;border-left:1px dotted #86bf15;float:left;overflow:hidden}
+.subnav li,.subnav li a{display: block;color:#719D00;background:#FFF;}
+.subnav li a:hover{background-color:#F5FFE6;color:#ff7e00;}
+.container{position:relative;width:1020px;margin:auto;background:url("../images/meiwen_container_repeat.png") repeat-y scroll 0 0 transparent}
+.list_top{background:url("../images/meiwen_container_top_list.jpg") no-repeat scroll center top transparent!important;}
+.list_repeat{background:url("../images/meiwen_container_repeat_list.png") repeat-y scroll 0 0 transparent!important}
+.container .container-bd{background:url("../images/meiwen_container_top.jpg") no-repeat scroll center top transparent;padding:20px 10px 10px}
+.container .container-bottom{background:url("../images/meiwen_container_bottom.png") no-repeat scroll 0 0 transparent;height:11px;overflow:hidden}
+.main-wrap{width:960px;margin:0 auto 10px auto;overflow:hidden}
+.main-left{width:700px;height:385px;float:left}
+.main-right{width:250px;height:385px;float:right}
+.slide{width:350px;height:325px;overflow:hidden;background: url("../images/meiwen_slide.jpg") no-repeat scroll 0% 0% transparent;}
+.tempWrap ul li{position:relative;}
+.slideBox{width:340px;height:309px;padding: 5px 5px 0px;overflow:hidden;position:relative}
+.slideBox .hd{width:338px;height:10px;overflow:hidden;position:absolute;bottom:0;z-index:1;border-top: 8px solid #FFF;border-bottom: 2px solid #FFF; border-left: 4px solid #FFF;}
+.slideBox .hd ul{width:340px;overflow:hidden;zoom:1;float:left;margin:0}
+.slideBox .hd ul li{float:left;width: 14.3%;height:10px;text-align:center;background:0;cursor:pointer;background:#D4D4D4;border-right:8px #FFF solid;}
+.slideBox .hd ul li.on{background:#74B000;color:#FFF;transition:background 0.8s;}
+.slideBox .bd{position:relative;height:100%;z-index:0}
+.slideBox .bd img{width:100%;height:290px;}
+.slideBox .text{width:340px; height:auto; background-color:rgba(0, 0, 0, 0.40); FILTER: alpha(opacity=80); opacity: 0.8; -moz-opacity: 0.8; position:absolute; left:0px; bottom:0px;}
+.slideBox .bt{width:340px;height:42px;}
+.slideBox .bt span{ display:block;}
+.slideBox .pa{ width:325px; line-height:30px;height: 30px; font-size:18px; color:#FFF;text-shadow: 1px 1px 0px #000;font-weight: bold;letter-spacing: 0.5px;padding:3px 0 0 10px;overflow: hidden;}
+.slideBox .clear{ display:block; font-size:0px; height:0px; height: 0px; line-height:0px; clear:both;}
+.slideBox .btxt{ width:325px; height:70px; line-height: 22px; padding:0px 10px 20px; color:#FFF;text-shadow: 1px 1px 1px #000;text-align: justify;font-size:14px;}
+.new{width:352px;height:325px;border-right:1px solid #f0f9e0;}
+.new .top{width:328px;margin:4px 12px;}
+.new .top h2{width:328px;padding: 0px 0px 8px;margin: 0px;overflow:hidden;line-height: 25px;height: 25px;font-size:20px;font-weight:400;display:block;}
+.new .top h2 a{color:#60AA19;padding:0 0 0 78px;line-height: 25px;height: 25px;display: block;background: url("../images/meiwen_week_tuijian.png") no-repeat scroll 0px 0px transparent;overflow: hidden;}
+.new .top p{width:328px;height:75px;padding: 5px 0px 6px;margin:0px;text-align: justify;line-height:26px;border-top: 1px dotted #CCC;border-bottom: 1px dotted #ccc;text-indent:1em;color:#888;overflow:hidden}
+.new .box{width: 352px;height: 200px;background: url("../images/meiwen_new_top.jpg") no-repeat scroll right bottom transparent;}
+.new .box ul{padding: 0px 15px;overflow:hidden;}
+.new .box li{width:310px;color:#373;line-height: 28px;height: 28px;overflow: hidden;background: url("../images/meiwen_list.gif") no-repeat scroll 0px 10px transparent;padding: 0px 0px 0px 15px;}
+.new .box li span {padding:0 5px 0 0;margin:0px;}
+.new .box a{color:#555;outline:medium none;}
+.new .top h2 a:hover,.new .box a:hover,#user_login .title span a:hover,.notice .title span a:hover,.category .item .top h4 a:hover,.member .info a:hover,.scores ul a:hover,.diary-list .box a:hover{color:#f60;}
+.new .box li span a,.new .box li span a:hover,.notice .title h3 a,.notice .title h3 a:hover,.category .item a.item-color{color:#373;padding: 0px 1px;}
+#user{width:250px;height:325px;float:right;display:inline;overflow:hidden}
+#user_login{padding-left: 0px;margin: 0px 0px 0px 15px;overflow: hidden;}
+#user_login .title span,.notice .title span{float:right;line-height: 35px;}
+#user_login .title span a{color:#78b10a}
+.form_head{width:230px;height: 80px;margin-top:10px;}
+.form_head li{padding:6px 0px;overflow:hidden;}
+.form_head li span{width:40px;float:left;color:#373;height: 28px;line-height: 28px;font-size:16px}
+.form_head li .ipt-txt{width:152px;height:26px;line-height:26px;border-radius: 3px;padding:0px 5px;float:left;font-family:"Microsoft Yahei";color:#888;border-color: #73AA26 #C8D4B9 #C8D4B9 #73AA26;border-width:1px;border-style:solid}
+.form_head li .ipt-txt:hover,.search_k:hover{ background-color:#FAFFF9}
+.form_bottom{width:230px;margin-top:10px;height:30px;}
+.form_bottom .login_btn{width:80px;height:26px;font: 14px/24px Arial,serif;background-color: #F6F6F6;color:#666;border: 1px solid #DEDEDE;cursor:pointer;margin:0px 5px;border-radius:3px;}
+.form_bottom .login_btn:hover{background-color:#74B000;transition: 0.2s;color:#FFF;}
+.form_bottom .login-qqbtn{width:130px;height:30px;background:url("../images/qq_login.gif") no-repeat scroll 0 1px transparent;float:right}
+.userinfo .loginafter{width:235px;height:58px;overflow:hidden;margin:10px 0 0 5px}
+.userinfo .loginafter dt{width:56px;height:56px;border-radius: 100%;border:1px solid #cde09c;overflow:hidden;text-align:center;float:left}
+.userinfo .loginafter dt img{width:56px;height:56px}
+.userinfo .loginafter dd{height:58px;margin-left:65px}
+.userinfo .loginafter p{width:150px;height:28px;margin: 0px 0px 0px 7px;overflow:hidden;}
+.userinfo .loginafter p span{color: #8DC61E;font-size:16px;overflow: hidden;}
+.userinfo .loginafter p a.lgbtn{width:72px;height:28px;line-height:28px;display:inline-block;font-size: 14px;color:#fff;text-align:center;background-color:#8dc61e;border-radius:3px;}
+.userinfo .loginafter p a.lgbtn:hover,.userinfo .mylink li a:hover,.head_right a:hover,.validation img:hover{opacity: 0.7;filter:alpha(opacity=70)}
+.userinfo .userlink{width:235px;height:66px;overflow:hidden;margin:0 auto;margin-top:5px}
+.userinfo .userlink li{width:33%;height:28px;float:left;margin:3px 0}
+.userinfo .userlink li a{display:inline-block;width:72px;height:26px;line-height:26px;font-size:13px;color: #666;background:url(../images/meiwen_userinfo_btn.jpg) no-repeat;text-align:center}
+.notice{height:157px;padding-left: 0px;margin: 0px 0px 0px 15px;overflow: hidden;}
+.notice .title span a{color:#78b10a;padding-left:16px}
+.notice .box{width: 235px;height:115px;padding:0px;margin: 5px 0px 0px;}
+.notice .box li{width: 220px;height:28px;line-height:28px;overflow: hidden;}
+.notice .box li a,.ranking ul li a,.right-item .box li a{display: block;height:28px;line-height:28px;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
+.main-left .title,.notice .title,#user_login .title,.ranking .title,.scores .title,.member-left .title,.pic-title,.diary-title,.link-title,.article-left .title,.right-item .title,.listpic .title{height:35px;line-height:35px;border-bottom:2px solid #cde09c}
+.main-left .title span,.member-left .title span,.pic-title span,.diary-title span,.link-title span,.article-left .title span,.article-left .title ul,.listpic .title span{font-size:14px;color:#666;float:right}
+.main-left .title span li,.member-left .title span li,.pic-title span li,.diary-title span li,.link-title span li,.main-left .title span li a,.member-left .title span li a,.diary-title span li a,.article-left .title span li,.article-left .title span li a{height: 35px;line-height: 35px;float: right;display: block;}
+.main-left .title span a,.diary-title span a,.link-title span a ,.article-left .title span a{margin:0 6px;padding:0px;}
+.main-left .title span a:hover,.diary-title span a:hover,.article-left .title span a:hover,.item-box .ta h4 a,.item-box .ta h4 a:hover,.left-item li .lb a:hover,.content .info span a:hover{color:#60AA19;}
+.main-left .title span li:hover,.diary-title span li:hover,.article-left .title span li:hover{border-bottom:2px solid #ff7e00;}
+.main-left .title h3,.notice .title h3,#user_login .title h3,.member-left .title h3,.ranking .title h3,.scores .title h3,.pic-title h3,.diary-title h3,.link-title h3,.article-left .title h3,.right-item .title h3,.listpic .title h3{line-height:35px;font-size:18px;border-bottom:2px solid #ff7e00;color:#373;font-weight:400;display:inline-block;}
+.main-left .title h3 a,.diary-title h3 a,.article-left .title h3 a,.listpic .title h3 a {color:#373;}
+.category{width: 700px;height: 331px;margin-top:5px;overflow:hidden;padding-bottom:8px;border-bottom:1px solid #e3efc5;}
+.category .item{width:350px;display:inline;float:left}
+.category .item .top{margin:5px;padding: 0px;overflow:hidden}
+.category .item .top img{width:120px;height:90px;border:#e3e2d5 1px solid;box-shadow: 2px 2px 2px #DDD;border-radius: 5%;padding:2px;float:left;margin-right:10px}
+.category .item .top img:hover{opacity: 0.6;transition: 0.5s;border: 1px solid #6EAE41;box-shadow: 2px 2px 2px #ABC899;}
+.category .item .top h4{margin:6px 0 8px;width:204px;float:left;height:20px;line-height:20px;font-weight:400;font-size:16px;overflow:hidden}
+.category .item .top h4 a{color:#60AA19;height: 20px;line-height: 20px;display: block;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
+.category .item .top p{line-height:20px;width:204px;text-align: justify;height:60px;margin: 0px;padding: 0px;float:left;color: #999;overflow:hidden;_margin-bottom:12px}
+.category .item ul{width: 340px;margin: 0px 5px;padding:0;overflow:hidden}
+.category .item ul li{width: 335px;line-height:28px;height:28px;overflow:hidden;}
+.category .item ul li .list{font:400 14px/28px "Microsoft Yahei",sans-serif;color:#373;padding-right:5px;float:left;}
+.category .item ul li .time,.diary-list .box li span.time,.item-box .tc li .time{font:12px/28px Georgia, serif;color:#999;padding-left: 10px;float:right;}
+.ranking,.scores{padding-left:10px;margin:0px}
+.ranking ul{padding: 4px 0px 4px 4px;margin:0px;min-height: 336px;border-bottom:1px solid #e3efc5;overflow:hidden;}
+.ranking ul li,.right-item .box li{line-height: 28px;height: 28px;}
+.ranking ul li span,.right-item .box li span {display: block; float: left}
+.ranking ul li span.a,.right-item .box li span.a{margin: 6px 5px 5px 0px;width: 17px;height: 17px;color: #FFF;font: 11px/16px "Microsoft Yahei",sans-serif;border-radius:3px;white-space: nowrap;text-align: center;display: inline-block;background-color:#8DC61E;}
+.ranking ul li span.b,.right-item .box li span.b{background-color:#F8A214;}
+.right-item{margin-bottom:5px;padding-left: 5px;}
+.right-item .box{padding: 4px 0px 4px 4px;margin: 0px;overflow: hidden;}
+.box .title{width:240px;overflow:hidden;}
+.box .answer{height:100%;overflow:hidden;}
+.member-left{width:700px;height:245px;float:left}
+.member{width:700px;overflow:hidden;border-bottom:1px solid #e3efc5}
+.member .info{height:197px;float:left;overflow:hidden;margin-left:5px;margin-top:10px}
+.member .info a,.scores ul a{color:#699069;line-height: 28px;height: 28px;overflow:hidden}
+.member .info ul{margin:10px 0 0 8px}
+.member .info li{text-align:center;padding:0;margin:5px 6px;width:65px;display:inline;float:left;height:85px;overflow:hidden}
+.member .info li h5{height: 20px;line-height: 20px;font-weight:400;text-align:center;overflow:hidden}
+.member .info li img{width:57px;height:57px;border-radius: 100%;border:1px solid #CDE09C;padding:3px;display:block;}
+.member .info li img:hover{padding:0px;width:64px;height:65px;opacity: 0.7;border: 0px solid #FFF;}
+.member-right{width:250px;height:245px;float:right}
+.scores ul{padding: 4px 0px 6px;border-bottom:1px solid #e3efc5}
+.scores ul li,.scores ul li a{height: 28px;line-height: 28px;overflow: hidden;display: block;}
+.scores ul span{height: 28px;line-height: 28px;font-family: Georgia, serif;float:right;color:#999;overflow: hidden;}
+#pic{width:960px;margin:10px auto 0;padding-bottom:5px;position:relative;overflow:hidden;_height:100%;border-bottom:1px solid #e3efc5}
+#picbox{width:960px;height:155px;overflow:hidden;text-align:center;position:relative}
+#picbox td{width:180px;height:140px;position:relative;background-color:#FFF;}
+#picbox td img{width:180px;height:140px;border-radius: 5px;padding: 2px;margin:0 4px;border: 1px solid #CCC;box-shadow: 0px 1px 1px #EEE;display: block;}
+#picbox td img:hover{width:180px;height:140px;border: 1px solid #60AA19;box-shadow: 0px 1px 1px #60AA19;opacity:0.6;filter:alpha(opacity=60);transition: 0.5s;}
+#picbox td p{width:170px;height: 28px;left: 7px;bottom: 3px;color:#FFF;text-shadow: 1px 1px 0px #000;padding: 0 5px;background-color: rgba(0, 0, 0, 0.4);font: 14px/28px Microsoft Yahei,serif;position: absolute;text-align: center;display: block;overflow: hidden;}
+.diary{width:960px;margin-top:20px;padding-bottom:5px;overflow:hidden}
+.diary .one,.diary .two{height:268px;width:475px}
+.one .pic{background-position:-159px 0}
+.two .pic{background-position:-477px 291px}
+.one .pic:hover{background-position:0 0}
+.two .pic:hover{background-position:-318px 291px}
+.one .pic,.one .pic:hover,.two .pic,.two .pic:hover{background-image:url("../images/meiwen_diary.jpg");display:block;float:left;height:268px;width:159px}
+.diary-list{background-image:url("../images/meiwen_diary_list.png");background-repeat:no-repeat;float:right;height:268px;width:316px}
+.diary-list .title{color:#373;font-size:16px;line-height:40px;margin-bottom:5px;margin-left:10px;margin-right:10px}
+.diary-list .title span{float:right;font-size:14px;padding-right:10px}
+.diary-list .title span a{color:#AAA}
+.diary-list .box{display:block;list-style-type:none;margin:0 15px 0 0;padding:0 0 0 20px}
+.diary-list .box li{height:30px;line-height:30px;border-bottom:1px dotted #CCC}
+.diary-list .box li.num{padding-left:3px;font:16px/30px "Microsoft Yahei";color: #666;list-style:decimal;}
+.diary-list .box a{color:#666;font-size:14px}
+.diary-list .box li:hover{color:#60AA19;border-bottom:1px dashed #60AA19;transition:border-bottom 3s;}
+.friendlink{width:958px;margin-top:10px;overflow:hidden}
+.friendlink ul{border-top:0}
+.friendlink li{float:left;padding:0 6px;height: 26px;line-height:26px;}
+.friendlink li a{height: 26px;line-height:26px;display:inline-block;}
+.validation{width:125px;height:47px;margin-top:5px;float:right;overflow:hidden}
+.article-left{width:690px;float:left;overflow:hidden}
+.article-right{width:250px;float:right;overflow:hidden}
+.article-left .title ol{display:inline;float:left;margin:0 10px}
+.index-item,.list-item{width:690px;overflow:hidden}
+.item-box{width:333px;float:left;background:none repeat scroll 0 0 #FFF;background:url("../images/meiwen_toolbar.gif") repeat-x scroll 0 -1px transparent;margin:10px 5px 0;border:1px solid #E9F5DE}
+.item-box .ta,.item-box .ta a{width:333px;height:40px;line-height:40px;display: block;overflow: hidden;border-bottom:1px solid #E9F5DE}
+.item-box .ta h4{width:280px;float:left;font-size:16px;padding:0 0 0 18px;font-weight:300}
+.item-box .tb{width: 303px;margin: 0px 15px;padding: 8px 0px;border-bottom:1px dashed #b1cf62;overflow: hidden;}
+.item-box .tb h4,.item-box .tb h4 a{width: 303px;line-height: 24px;height:24px;font-weight:400;display: block;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
+.item-box .tb p{width: 303px;margin:8px 0px 2px;text-align: justify;line-height: 23px;height: 46px;color:#AAA;overflow: hidden;}
+.item-box .tc{margin: 0px 15px;padding: 5px 0px 10px;overflow: hidden;}
+.item-box .tc li{font-size:14px;height:32px;line-height:32px;border-bottom:1px dashed #e4f0c2;background: url("../images/meiwen_list.gif") no-repeat scroll 0px 12px transparent;padding: 0 0 0 15px;overflow: hidden;}
+.item-box .tc li a{font-size:14px;height:32px;line-height:32px;border-bottom:1px dashed #e4f0c2;display: block;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
+.left-item,.new-item{padding: 10px 10px 0px 5px;margin:0px}
+.left-item li{padding:5px 0;}
+.left-item li .la{height:28px;line-height:28px;overflow:hidden}
+.left-item li .lb{padding: 0;margin:0;height: 28px;line-height:28px;padding-bottom: 5px;text-align: right;border-bottom: 1px dashed #B1CF62;color: #999;}
+.left-item li .la span,.left-item li .lb a,.left-item li .lb span,.new-item li dl{color:#AAA;  margin: 0px 0px 0px 5px;font-size:14px;font-family: Georgia,serif;height:28px;line-height:28px;display: inline-block;overflow:hidden}
+.left-item li .lb .c60{color:#60AA19;}
+.left-item li h3,.new-item li h4{width: 535px;float:left;font-weight:300;height: 28px;line-height: 28px;white-space: nowrap;text-overflow: ellipsis;overflow: hidden;}
+.left-item li h3 a,.new-item li h4 a{color:#3CB469}
+.left-item li p{line-height:24px;text-align: justify;letter-spacing: 1px;padding:5px 0px 0px;color:#999;overflow:hidden}
+.new-item li{height: 30px;padding:10px 0 10px;border-bottom:1px dashed #b1cf62}
+.new-item li span,.new-item li span a,.new-item li span a:hover{color: #3C88C0;padding: 0 2px;}
+.new-item li h4{width: 540px;}
+.listpic{padding: 5px 0px 5px;margin:0px;min-height:500px}
+.listbom{padding: 10px 0px 0px;text-align: center;padding-left:405px;}
+.listpic .box {width:962px;height: 2150px;}
+.listpic .box ul {padding: 15px 0px 0px 10px;margin:0px;height: 2130px;}
+.listpic .box ul li{width:226px;height:177px;background: url("../images/meiwen_list_pic.jpg") no-repeat scroll 0% 0% transparent;display:inline;float:left;margin-right:12px;margin-bottom:18px}
+.listpic .box ul li img{width:216px;height:164px;padding:4px;display:block;}
+.listpic .box ul li img:hover{display:block;opacity:0.6;filter:alpha(opacity=60);transition: 0.4s;}
+.listpic .box ul a{position:absolute;display:block;padding:0}
+.listpic .box ul a span{font:14px/30px Arial,serif;width:212px;height:30px;padding: 0px 2px;text-align:center;left:4px;bottom:3px;color:#fff;background-color: rgba(0, 0, 0, 0.4);text-shadow: 1px 1px 0px #000;display:block;position:absolute;overflow:hidden;}
+.listpic .box ul a:hover span{background-color: rgba(109, 164, 3, 0.74);transition: 0.5s;}
+#right-box{float:left;position:relative;width:250px}
+.item1{width:250px}
+.item2{position:fixed;_position:absolute;top:0;z-index:250}
+.ad-250{width:250px;margin-bottom:5px;overflow:hidden}
+.ad-690{width:690px;text-align:center;margin-bottom:10px}
+.ad-960{width:960px;margin:0 auto 10px auto}
+.ad-700{width:700px;text-align:center;margin:5px auto 10px auto}
+.ad-300{overflow:hidden;float:right;margin-left: 5px;padding:7px 5px;background:#FFF}
+.content{padding: 0px 10px 0px 0px;margin: 0px;overflow:hidden}
+.content ._title{height:70px;line-height:70px;text-align:center;overflow:hidden;padding:5px 0px 5px 20px;white-space: nowrap;text-overflow: ellipsis;background: url("../images/meiwen_article_title_bg.png") no-repeat scroll 0px 0px transparent;}
+.content ._title h1{color:#48ab48;font-weight:400;text-align:center;display:inline;}
+.content .info{height: 35px;line-height: 35px;text-align:center;background:#FDFFF7;color:#555;padding:0px 5px;border-top: 1px solid #EDEDED;border-left: 1px solid #EDEDED;box-shadow: 2px 2px 0px #EDEDED;overflow:hidden}
+.content .info span,.content .info span a{margin: 0px 5px 0px 0px;color: #999;}
+.content .article{line-height:30px;min-height: 300px;font-size:16px;color:#555;letter-spacing: 0.5px;font-weight: normal;text-align: justify;margin:15px 0 0;padding:0px;background-image:url("../images/meiwen_article_bg.png");overflow:hidden;}
+.content .shige{background-image:none;}
+.content .juzi{min-height: 90px;background-image:none;}
+.content .article br,.content .shige br.content .juzi br{line-height:30px;overflow:hidden;}
+.content .article .meiwen{position: relative;top: -5000px;display: inline;overflow:hidden;}
+.content .article .acpic{background: url("../images/meiwen_pic.jpg") no-repeat scroll 0% 0% transparent;float:right;width:335px;height:265px;margin-left: 8px;overflow:hidden;}
+.content .article .sgpic,.content .article .jzpic{width:426px;height:312px;margin: 0px auto 10px;border-radius: 5px;padding: 3px;border: 1px solid #E6E6E6;box-shadow: 2px 2px 2px #E6E6E6;float: inherit;overflow:hidden;}
+.content .article .acpic img,.content .article .sgpic img,.content .article .jzpic img{width:325px;height:250px;padding: 5px;-moz-transition: all 0.9s ease 0s;-o-transition: all 0.9s ease 0s;-webkit-transition: all 0.9s ease 0s;transition: all 0.9s ease 0s;}
+.content .article .acpic img:hover,.content .article .sgpic img:hover,.content .article .jzpic img:hover{-webkit-transform: scale(1.3);-moz-transform: scale(1.3);-ms-transform: scale(1.3);-o-transform: scale(1.3);transform: scale(1.3);}
+.content .article .sgpic img,.content .article .jzpic img{width:420px;height:306px;padding: 3px;border-radius: 5px;overflow:hidden;}
+.handover{padding:10px 0px 15px;text-align:center}
+.handover .box{height:45px;line-height: 45px;margin:0 auto;overflow:hidden;width:320px}
+.handover .box a{text-decoration:none}
+.handover .prev,.handover .next,.handover .noprev,.handover .nonext{height:43px;width:129px}
+.handover .prev:hover,.handover .next:hover,.handover .noprev:hover,.handover .nonext:hover{opacity: 0.8;filter:alpha(opacity=80)}
+.handover .prev,.handover .next,.handover .noprev,.handover .nonext,.handover .rand,.handover .rand:hover{background-image: url("../images/meiwen_article_handover.png");background-repeat: no-repeat;background-attachment:scroll;background-color:transparent;}
+.handover .prev{background-position: 0px 2px;padding-right:10px;display:block;overflow:hidden;float:left;text-indent:-999em}
+.handover .next{background-position: -211px 2px;display:block;overflow:hidden;float:right;text-indent:-999em}
+.handover .noprev{background-position: 0px -58px;padding-right:10px;display:block;float:left;overflow:hidden;text-indent:-999em}
+.handover .nonext{background-position: -211px -58px;display:block;float:right;overflow:hidden;text-indent:-999em}
+.handover .rand{background-position: -149px 1px;height:45px;width:45px;display:block;overflow:hidden;float:left;text-indent:-999em}
+.handover .rand:hover{background-position: -149px -57px;}
+.article_tag{margin-right: 10px;border:1px dotted #ccc;overflow:hidden}
+.article_tag .tags{color:#373; height: 25px;overflow: hidden;width: 480px;}
+.article_tag .tags{line-height:34px;float:left;display:inline-block;font-size:15px}
+.article_tag .tags .tag{margin:0 3px;color:#6fa770;overflow:hidden}
+.article_tag .tags .cr{margin-left:3px;color:#6fa770;overflow:hidden}
+.article_tag .tags .cr:hover,.article_tag .tags .tag:hover,.other_list span,.other_list span:hover{color:#ff7e00}
+.article_tag .mark{overflow:hidden;float:right;text-align:left;line-height:32px}
+.other_title{font-size:18px;color:#60AA19;padding:5px 0;margin-top:10px}
+.other_title a,.other_title a:hover{font-size:18px;color:#60AA19}
+.other_list{font-size:15px;border:1px solid #39b939;text-align: justify;line-height: 28px;color:#666;margin-bottom:10px;margin-right:10px;clear:both;background:url(../images/blockquote.gif) no-repeat scroll 5px 3px #fafafb;padding:8px 12px 8px 36px;border:1px dashed #d0d4c8}
+.other_list a,.other_list a:hover{color:#666;}
+.list_paging{height:28px;padding:18px 0 0 0}
+.list_paging ul{float:right;height: 28px;padding-right:8px;overflow:hidden;}
+.list_paging ul li{float:left;margin:0 3px;line-height:24px}
+.list_paging ul li a{float:left;padding: 1px 9px;color:#555;border:1px solid #ddd;display:block;}
+.list_paging ul li a:hover{color:#fff;padding: 1px 9px;border:1px #8dc61e solid;background-color:#8dc61e;transition: color 0s;text-decoration:none;}
+.list_paging ul li.thisclass,.list_paging ul li.thisclass a{color:#fff;padding: 1px 9px;font-weight:bold;background-color:#8dc61e;border:1px #8dc61e solid;}
+.list_paging .pageinfo{color:#999;float: right;padding: 0px 5px;color:#555;line-height: 26px;border:1px solid #ddd;}
+.list_paging .pageinfo strong{color:#555;font-weight:normal;margin:0 2px}
+.article_paging{padding: 10px 0px 0px;float:none;text-align:center;overflow:hidden;}
+.article_paging ul{margin:0 auto;float:none;clear:both;height: 30px;line-height:30px;padding:0;text-align:center;white-space:nowrap}
+.article_paging ul li{float:none;display:inline;line-height:30px;margin: 0px 5px;}
+.article_paging ul li a{float:none;color: #555;padding: 3px 8px;border:1px solid #ddd;}
+.article_paging ul li a:hover{padding: 3px 8px;transition: color 0s;text-decoration:none;color:#fff;border:1px #8dc61e solid;background-color:#8dc61e;}
+.article_paging .current{padding: 3px 8px;border:1px solid #8dc61e;background-color:#8dc61e;color:#fff;}
+.like{cursor:pointer}
+.likeitem{margin:0;padding-top:1px;font-size:15px}
+.likeitem em.likenum{background-color:#5FBF5F;border-radius:3px;color:white;text-align:center;padding:5px 15px;font-style:normal}
+.likeitem em.dolike{background-image: url("../images/meiwen_head_ico.png");background-position:8px -117px;background-color: #5FBF5F;background-repeat: no-repeat;padding:5px 10px 5px 35px;margin-right:7px;margin-left:5px;border-radius:3px;font-style:normal;color:white}
+.likeitem em.likenum:hover,.likeitem em.dolike:hover{background-color:#FD7C29;transition: 0.3s;}
+.likepic{background:#FFF;border:1px dotted #ccc;margin-right:10px;line-height:30px;margin-top:15px;overflow:hidden}
+.likepic .top{border-bottom:2px solid #cee4c0;margin-left:10px;margin-right:10px}
+.likepic .top h3{line-height:40px;font-weight:400;color:#373;display:inline-block}
+.likepic .top span{float:right;padding-top:4px}
+.likepic .box{padding:22px 0 0 12px;/*height:275px*/}
+.likepic .box li{width:150px;height:20px;display:inline;float:left;margin-right:8px;margin-top:25px;overflow:hidden;}
+.likepic .box li img{width:150px;height:120px;border-radius: 5px;padding:2px;border:1px solid #ccc;box-shadow: 0 1px 1px #eee;display:block;}
+.likepic .box li img:hover{border:1px solid #60AA19;box-shadow: 0px 1px 1px #60AA19;display:block;opacity:0.6;filter:alpha(opacity=60);transition: 0.4s;}
+.likepic .photo a{position:absolute;display:block;padding:0}
+.likepic .photo a span{font:12px/26px Arial,serif;width:146px;height:26px;padding: 0px 2px;border-radius: 2px;text-align:center;left:3px;bottom:3px;color:#fff;background-color: rgba(0, 0, 0, 0.4);text-shadow: 1px 1px 0px #000;display:block;position:absolute;overflow:hidden;}
+#pinglun{margin-right: 10px;height:100%;margin-top:10px;overflow:hidden;border:1px dotted #ccc}
+#pinglun .box{padding:0 10px}
+.footer{background:#efefef;text-align:center;margin-top:10px;padding-top:20px;color:#89a18e;padding-bottom:20px;font-size:14px}
+.footer p{line-height:20px}
+.footer p.p_1{margin-bottom:15px;text-shadow: 1px 1px 1px #FFF;}
+.footer p.p_2{margin-bottom:2px;text-shadow: 1px 1px 1px #FFF;}
+.footer p.p_2 a{color:#89a18e;text-shadow: 1px 1px 1px #FFF;}
+.footer p.p_1 a{color:#89a18e;margin:0 10px;text-shadow: 1px 1px 1px #FFF;}
+.footer p.p_1 a:hover,.footer p.p_2 a:hover{color:#3CAC4C;}
+.footer .footer_service{width:960px;margin:10px auto 0 auto;padding-top:10px;border-top:1px solid #cae0c6}
+.zeng_msgbox_layer,.zeng_msgbox_layer .gtl_ico_succ,.zeng_msgbox_layer .gtl_ico_fail,.zeng_msgbox_layer .gtl_ico_hits,.zeng_msgbox_layer .gtl_ico_clear,.zeng_msgbox_layer .gtl_end{display:inline-block;height:54px;line-height:54px;font-weight:bold;font-size:15px;color:#606060;background-image:url("../images/meiwen_tip_layer.png");_background-image:url("../images/meiwen_tip_layer_ie6.png");background-repeat:no-repeat}
+.zeng_msgbox_layer_wrap{width:100%;position:fixed;_position:absolute;top:46%;left:0;text-align:center;z-index:65533}
+.zeng_msgbox_layer{background-position:0 -161px;background-repeat:repeat-x;padding:0 18px 0 9px;margin:0 auto;position:relative}
+.zeng_msgbox_layer .gtl_ico_succ{background-position:-6px 0;left:-45px;top:0;width:45px;position:absolute}
+.zeng_msgbox_layer .gtl_end{background-position:0 0;position:absolute;right:-6px;top:0;width:6px}
+.zeng_msgbox_layer .gtl_ico_fail{background-position:-6px -108px;position:absolute;left:-45px;top:0;width:45px}
+.zeng_msgbox_layer .gtl_ico_hits{background-position:-6px -54px;position:absolute;left:-45px;top:0;width:45px}
+.zeng_msgbox_layer .gtl_ico_clear{background-position:-6px 0;left:-5px;width:5px;position:absolute;top:0}
+.bottom_tools{position:fixed;z-index:1070;right:40px;bottom:40px}
+.bottom_tools>*{font:0/0 a;display:block;margin-top:5px;color:transparent;border:0;background-color:transparent;text-shadow:none}
+.weixin{position:absolute;top:-189px;left:-183px;display:none}
+.qr_tool,.qr_tool:hover,#scrollUp,#scrollUp:hover,#tougao,#tougao:hover,#share,#share:hover{width:45px;height:45px;border-radius: 3px;background-image:url("../images/meiwen_returntop.png");}
+.qr_tool{background-position:0px 0;cursor:pointer}.qr_tool:hover{background-position: 46px 0px}
+#tougao{background-position:0px -47px}#tougao:hover{background-position:46px -47px}
+#share{background-position:0px -94px}#share:hover{background-position:46px -94px}
+#scrollUp{background-position:0px -144px;pxdisplay:none}#scrollUp:hover{background-position:46px -144px}
+#changyan_floatbar_wrapper{display:none!important}
+#powerby_sohu a{font-size:0!important;line-height:0!important}
+
+
+.view_pic {
+    background: #f5f5f5 none repeat scroll 0 0;
+    border: 1px solid #ebebeb;
+    display: table-cell;
+    height: 458px;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+    width: 648px;
+}
+.view_pic img {
+    max-height: 458px;
+    max-width: 648px;
+    overflow: hidden;
+    vertical-align: middle;
+    border-width:0px;
+}
+
+.article-content { color: #333333;font-size: 16px; line-height: 28px;padding-top: 10px;}
+.article-content p { line-height: 28px; margin: 15px 0; padding: 0;}
+.article-content p img {border:1px solid #FFFFFF;max-width:610px;width:expression(this.width > 610 && this.width > this.height ? 610 : true);overflow:hidden;display: block;margin:0px auto;clear:both;}
+.video{ font-size:14px; text-align:right;}

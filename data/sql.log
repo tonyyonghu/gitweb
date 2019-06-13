@@ -1,0 +1,1116 @@
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 945,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 945,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 945,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 945,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 945,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=103735 and flag=1
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=103735 and flag=1
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=103735 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "初五%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=103735 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "初五%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=103735 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "初五%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=103735 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "初五%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 50
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 5
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 0,20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 2
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 465,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 465,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 465,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 465,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 480,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 495,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 510,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 525,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 540,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 555,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 570,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 585,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 600,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 615,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 30
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+SELECT COUNT(*) FROM keywords WHERE `flag`=1
+select id,keyword from keywords where flag=1 order by id desc limit 630,15
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 20
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=2150 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "巨乳%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=2150 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "巨乳%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=2150 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "巨乳%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=2150 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "巨乳%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=688 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "兰蔻%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=688 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "兰蔻%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=688 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "兰蔻%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=1771 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "具惠%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=1771 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "具惠%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15
+use `com162722`
+set names utf8
+select id,keyword from keywords where id=1771 and flag=1
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 3
+select id,keyword from keywords where keyword like "具惠%"
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 100
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 10
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 8
+select id,keyword from keywords where id>=((select max(id) from keywords)-(select min(id) from keywords))*rand()+(select min(id) from keywords) and flag=1 limit 15

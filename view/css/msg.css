@@ -1,0 +1,14 @@
+*{margin:0; padding:0; font-size:12px; font-family:"宋体"; color:#2c2c2c; list-style:none;}
+
+.pinlun{width:755px; height:auto; overflow:hidden; margin:auto; padding-top:10px; padding-left:25px;}
+.pinlun samp{font-weight:100;}
+.neiro{width:647px; height:auto; overflow:hidden; float:left; font-weight:bold;}
+.neiro samp{font-weight:100;}
+.neiro a{font-weight:bold;}
+.neiro a:hover{color:#F00;}
+.img{width:78px; height:15px; float:right; padding-right:25px;}
+
+.spy{width:735px; height:auto; overflow:hidden;margin:0 auto; font-weight:bold; padding-left:20px; font-weight:100; padding-top:10px;}
+.nry{width:755px; page:auto; overflow:hidden; margin:0 auto;}
+.a1{width:735px;  height:auto; overflow:hidden; margin:0 auto; padding-left:20px; font-weight:100; padding-top:10px;}
+

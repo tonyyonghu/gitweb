@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>{$keywordInfo.keyword}-sitename</title>
+<meta name="keywords" content="{$keywordInfo.keyword}" />
+<meta name="description" content="{$keywordInfo.keyword}" />
+<link href="/view/css/view.css" type="text/css" rel="stylesheet" />
+<script type="text/javascript" src="/view/js/news.js"></script>
+<body>
+<div id="adtop"></div>
+<script type="text/javascript" src="/view/js/content.js"></script>
+<div class="wrap">
+	<!--header-->
+	<div class="con_header">
+		<a href="/" class="con_logo" target="_blank"><span></span></a>
+		<ul>
+			<!--<li><a href="/zhongyiguan/" target="_blank" rel="nofollow">中医养生</a><span class="icon_line"></span></li>-->
+		</ul>
+		<div class="con_userinfo" id="lg"></div>
+	</div>
+	<!--/header-->
+	<div class="add1"></div>
+	<!--posi-->
+	<div class="con_posi">
+		<div class="con_posi_tag"><a href="/" target="_blank">{$keywordInfo.keyword}</a> > <a href="/keywords.php?id={$keywordInfo.id}" target="_blank">{$keywordInfo.keyword}</a></div>
+		<div class="con_add2" style="width:470px;height:15px;margin-top:7px;"></div>
+		<div style='float:right'>
+		</div>
+	</div>
+	<!--/posi-->
+	<div class="clear"></div>
+	<div class="con_lines"></div>
+	<div class="row">
+		<div class="column">
+			<div class="column_in" style='padding-bottom:5px'>
+				<div class="articlewrap">
+					<h1>{$keywordInfo.keyword}</h1>
+					<div class="article-info">
+						<span>2014-03-28 10:53</span>
+						<span class="blue">来源：<a href="" target="_blank" title="{$keywordInfo.keyword}">{$keywordInfo.keyword}</a></span>
+						<span>编辑：<em>{$keywordInfo.keyword}</em></span><span class="blue"><a href="" target="_blank" style="color:red;">{$keywordInfo.keyword}</a></span>
+					</div>
+					<div id="articleContent" class="article-content">
+					{$content}
+					</div>
+					<div class="video">(<a target="_blank" title="{$keywordInfo.keyword}" href="">{$keywordInfo.keyword}</a>)</div>
+					<!--分享-->
+					<div class="article-moreuse" style="margin-bottom:10px;">
+					<script>share();</script>
+					</div>
+					<!--/分享-->
+					<div class="clear"></div>
+					<div style="border-top: #cccccc 1px dotted" class="w600">
+					<div class="cont_1">
+					<div class="t">相关阅读推荐：</div>
+					<ul>
+					<!--<li><a title="七征兆表明你压力太大需减压" href="" target="_blank"><b>·</b> 七征兆表明你压力太大需减压</a> </li>-->
+					</div>
+					</div>
+					<div class="article-about">
+						<div class="article_tit">图文描述</div>
+						<div class="article-value">
+<!--<dl>
+<dt><a href="http://www.39yst.com/flist/34030-1.html" target="_blank"><img width="61" height="62" src="http://img.39yst.com/uploads/allimg/140318/58-14031Q04K80-L.jpg" alt="红枣的功效与作用"></a></dt>
+<dd class="article-value-tit"><a href="http://www.39yst.com/flist/34030-1.html" target="_blank"><strong>红枣的功效与作用</strong></a></dd>
+<dd>红枣作为最常见的食材，红枣的功效与作用及食用方法有哪些？红枣...</dd>
+</dl>-->
+</div>
+					</div>
+				</div>
+			</div>
+			<div class="clear"></div>
+			<div class="article-about">
+				<div class="article_tit">图库</div>
+				<div class="ui-list-look1 ui-list-select">
+				<!--<dl><dt><a href="http://www.39yst.com/20140331/152607.shtml" target="_blank"><img width="148" height="110" src="http://img.39yst.com/uploads/allimg/140401/26-140401163T40-L.jpg" alt="4种伤口让你患癌丢性命" ></a></dt><dd><a href="http://www.39yst.com/20140331/152607.shtml" target="_blank">4种伤口让你患癌丢命</a></dd></dl>-->
+				</div>
+			</div>
+			<div class="clear"></div>
+			<div class="article-about article-station">
+				<div class="article_tit"><span>{$keywordInfo.keyword}</span></div>
+				<div class="ui-list">
+				<ul>
+				<!--<li><a target="_blank" href="http://www.39yst.com/20140401/152715.shtml">三大疗法立竿见效 春困怎么办</a></li>-->
+				</ul>
+				<ul>
+				</ul>
+				<ul>
+				</ul>
+				</div>
+			</div>
+			
+		</div>
+		<div class="column_r">
+			<div class="art_col">
+			<div class="rigtit">
+			<ul>    
+			<li>搜索{$keywordInfo.keyword}的人还在搜</li>
+			</ul>
+			</div>  
+			<div class="jktt">
+			<ul id="list_1_0" class="block list_up">
+			{foreach from=$mykeys item=v}
+			<li>·{$v}</li>
+			{/foreach}
+			</ul>
+			</div>
+			</div>
+			<div class="art_col">
+			<div class="rigtit">
+			<ul>    
+			<li><a target="_blank" href="/keywords.php?id={$v.id}">{$keywordInfo.keyword}</a> </li>
+			</ul>
+			</div>  
+			<div class="jktt">
+			<ul id="list_1_0" class="block list_up">
+			{foreach from=$keywordsRandInfo item=v}
+			<li><a target="_blank" href="/keywords.php?id={$v.id}">·{$v.keyword}</a></li>
+			{/foreach}
+			</ul>
+			</div>
+			</div>
+			<!--<div class="clear"></div>
+			<div class="common_box leisure">
+			<h4>男士养生</h4>
+			<div class="brtg wlady">
+			<ul><li><a href="http://www.39yst.com/20140328/152482.shtml" target="_blank">男人春季养肝护肝这么做最好男人春季养肝护肝这么做最好</a></li><li><a href="http://www.39yst.com/20140327/152374.shtml" target="_blank">男人12种举动表明已经不爱你</a></li><li><a href="http://www.39yst.com/20140324/151906.shtml" target="_blank">别让呼噜夺走男人健康和生命</a></li><li><a href="http://www.39yst.com/20140326/152211.shtml" target="_blank">女人要认清的六种隐性坏男人</a></li></ul>
+			</div>
+			</div>
+			<div class="common_box leisure">
+			<h4>养生视频</h4>
+			<ul class="hot_pic">
+			<li><a target="_blank" href="http://www.39yst.com/20140409/153314.shtml"><img width="132" height="132" alt="李铁钢讲干葱豆豉爆鸡的做法" src="http://img.39yst.com/uploads/allimg/140409/26-1404091946060-L.jpg">干葱豆豉爆鸡的做法</a></li>
+			</ul>
+			</div>-->
+			<div id="xiao_ly_height"></div>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div class="footer">
+		<p> Copyright <font>&copy;</font> 2010-<span id="Y">2014</span> <a rel="nofollow" target="_blank" href="">{$keywordInfo.keyword}</a>  版权所有</p>
+	</div>
+</div>
+<div class="clear"></div>
+</div>
+<div style="display:none"><script>tongji();</script></div>	
+</body>
+</html>

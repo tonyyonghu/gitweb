@@ -1,0 +1,8 @@
+1.db.sql 恢复到mysql数据库
+2.数据库配置文件 includes/config.php
+3.站点配置文件 域名配置 网站关键词优化等配置 includes/init.php
+4.伪静态 iis上添加根目录Rewrite/Rewrite.dll
+5.首页、列表页、内容页模板文件目录 view
+6.cache为缓存目录，首次访问会缓存到cache目录，第二次访问时会访问缓存文件；
+7.首页随机调用友情链接数量，内页随机调用其他域名内页链接数量 在includes/init.php 底部配置$LINKVIEWNUM = 3;$LINKINDEXOTHERNUM = 5;
+8.关键词、图片保存在数据库中，可以批量增加导入；

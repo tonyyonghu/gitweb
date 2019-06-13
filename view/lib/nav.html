@@ -1,0 +1,29 @@
+            <div class="subnav">
+                {foreach from=$cateList item=v}
+                {if $v.lev == 0}
+                <div>
+                    <span class="left">
+                        {$v.cat_name}
+                    </span>
+                    <span class="right subnav_right">
+                        <img src="view/images/line.gif" border="0" id="categorie_ico1">
+                    </span>
+                </div>
+                <ul>
+                    {foreach from=$cateList item=c}
+                    {if $c.parent_id == $v.cat_id}
+                    <li>
+                        &nbsp;
+                        <a href="category.php?cat_id={$c.cat_id}">
+                           {$c.cat_name}
+                        </a>
+                    </li>
+                    {/if}
+                    {/foreach}
+                </ul>        
+                {/if}
+                {/foreach}
+
+
+
+            </div>
